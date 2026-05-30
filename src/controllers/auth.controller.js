@@ -1,7 +1,7 @@
 const userModel = require("../models/user.model")
 const jwt = require("jsonwebtoken")
 const emailService = require("../services/email.service")
-const tokenBlacklistModel= require("../models/tokenBlackList.model")
+const tokenBlacklistModel= require("../models/tokenBlacklist.model")
 
 
 
